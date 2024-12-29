@@ -1,4 +1,4 @@
-## <h2> Olá, meu nome é Arthur Cezar e este é o meu perfil.<img src="https://media.tenor.com/mzYeCcOutXcAAAAj/sonic.gif" width=60px>
+## <h2> Olá, meu nome é Arthur Cezar e este é o meu perfil. <img src="https://media.tenor.com/mzYeCcOutXcAAAAj/sonic.gif" width=50px>
 🐦‍⬛ *Estou cursando Análise e Desenvolvimento de Sistemas com intenção de aprender e me aprimorar academicamente no mundo da tecnologia*
 
 📖 *Faculdade Senac PE*
