@@ -1,4 +1,4 @@
-## <h2> Olá, meu nome é Arthur Cezar e este é o meu perfil.<img src="https://64.media.tumblr.com/484f9fb14873e38445f9ed1ff67d9ca0/tumblr_opwb97GKDa1w1kerio1_400.gif" width=90px>
+## <h2> Olá, meu nome é Arthur Cezar e este é o meu perfil.<img src="https://64.media.tumblr.com/484f9fb14873e38445f9ed1ff67d9ca0/tumblr_opwb97GKDa1w1kerio1_400.gif" width=80px>
 🐦‍⬛ *Estou cursando Análise e Desenvolvimento de Sistemas com intenção de aprender e me aprimorar academicamente no mundo da tecnologia*
 
 📖 *Faculdade Senac PE*
